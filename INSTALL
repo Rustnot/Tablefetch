@@ -1,0 +1,5 @@
+INSTALL
+Copy the file to ~/.config/neofetch/ and (back up your original config.conf by renaming it ex. defaultconfig.conf) rename 
+Tablefetch.conf to config.conf for it to work. 
+
+Install Nerd fonts of your choice. Works great with CaskadiyaMono. 
